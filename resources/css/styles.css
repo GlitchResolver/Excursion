@@ -14,3 +14,23 @@ body {
     color: aquamarine;
     font-size: 16px;
 }
+#secondheader {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+#secondparagraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+#footer1 {
+    text-align: right;
+    color: gray;
+}
+#footer2 {
+    text-align: right;
+    color: gray;
+}
+
